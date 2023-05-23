@@ -1,4 +1,4 @@
-Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages /criar-próximo-aplicativo).
+Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Começando
 
@@ -29,6 +29,6 @@ Você pode conferir [o repositório GitHub Next.js](https://github.com/vercel/ne
 
 ## Implantar no Vercel
 
-A maneira mais fácil de implantar seu aplicativo Next.js é usar a [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app -readme) dos criadores de Next.js.
+A maneira mais fácil de implantar seu aplicativo Next.js é usar a [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) dos criadores de Next.js.
 
 Confira nossa [documentação de implantação do Next.js](https://nextjs.org/docs/deployment) para obter mais detalhes.
